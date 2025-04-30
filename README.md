@@ -44,3 +44,27 @@ Sales 360 provides actionable insights, enhancing decision-making and offering a
   </p>
 ✅Skills: Microsoft Power BI · DAX · Data Modeling · Business Intelligence (BI) · Financial Analysis · M Language# · Graphical User Interface (GUI)
 
+<h2>ATLIQ-360 Home Page</h2>
+<p align="center">
+<img src="https://github.com/dhanushkapg/ATLIQ-Sales-360/blob/main/HomePage.png"/>
+<br/>
+
+<h2>Executive View</h2>
+<p align="center">
+<img src="https://github.com/dhanushkapg/ATLIQ-Sales-360/blob/main/ExecutiveView.png"/>
+<br/>
+
+<h2>Finacial View</h2>
+<p align="center">
+<img src="https://github.com/dhanushkapg/ATLIQ-Sales-360/blob/main/FinancialView.png"/>
+<br/>
+
+<h2>Sales View</h2>
+<p align="center">
+<img src="https://github.com/dhanushkapg/ATLIQ-Sales-360/blob/main/Sales%20View.png"/>
+<br/>
+
+<h2>Supply-Chain View</h2>
+<p align="center">
+<img src="https://github.com/dhanushkapg/ATLIQ-Sales-360/blob/main/SupplyChain%20View.png"/>
+<br/>
